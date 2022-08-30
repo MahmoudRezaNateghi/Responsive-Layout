@@ -1,0 +1,36 @@
+header{
+    border: 1px solid black;
+    display: flex;
+    flex-direction: column;
+    
+}
+.header-sec{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 20px;
+} 
+.des-nav{
+    border: 1px solid salmon;
+    display: flex;
+    justify-content: space-between;
+    
+}
+nav{
+    width: 30%
+}
+.nav-{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.nav--{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+a{
+    border: 1px solid blue; 
+    flex-basis: 200px;
+    text-align: center;
+}  
