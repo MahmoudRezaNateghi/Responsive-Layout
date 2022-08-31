@@ -16,7 +16,7 @@ main{
 .main-left{
     grid-column: 1/2;
     padding-left: 13px;
-    border: 1px solid salmon;
+    border: 1px solid burlywood;
 }
 #dd1{
     
