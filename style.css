@@ -10,6 +10,7 @@ body{
     background-color: rgb(241,241,241);
     gap: 20px;
 }
+
 main{
     display: grid;
     grid-template-columns: 1.3fr 0.4fr;
